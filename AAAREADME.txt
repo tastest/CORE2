@@ -6,3 +6,8 @@ Good examples:
   * utilities/code used for selections
 
 Please keep number of files as small as possible.
+
+-------------------------------------------------------
+                     TEST AREA
+-------------------------------------------------------
+
